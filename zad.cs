@@ -6,7 +6,7 @@ namespace App{
 
         static void Main(string[] args){
 
-            Console.WriteLine("Novo");
+            Console.WriteLine("Napravi Konflikt");
 
         }
 
