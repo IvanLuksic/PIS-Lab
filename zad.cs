@@ -8,7 +8,7 @@ namespace App{
 
             Console.WriteLine("Novo");
             Console.WriteLine("PrijeKonflikta")
-
+            Console.WriteLine("EVo promjenahashdhah");
         }
 
     }
